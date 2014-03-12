@@ -1,0 +1,25 @@
+
+div, [type="radio"] {
+    padding-left:40px;
+}
+.button {
+    margin-left:10px;
+    margin-top:20px;
+}
+#visibleForm{
+text-align:center;
+}
+
+h1, h2, h3, h4, h5,#username,#password,#userHtml,#passHtml,#former,#buttony
+ {
+    text-align:center;
+    
+}
+#cancelButton, #logButton {
+display:inline;
+text-align:center;
+}
+#log{
+	 cursor: pointer; 
+	 cursor: hand;
+}
